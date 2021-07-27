@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Project11_2</string>
+    <string name="movie_name1">블랙위도우</string>
+    <string name="movie_name2">뷰티인사이드</string>
+    <string name="movie_name3">1917</string>
+    <string name="movie_name4">YAK ICE</string>
+    <string name="movie_name5">엑시트</string>
+    <string name="movie_name6">스파이더맨</string>
+    <string name="movie_name7">토이스토리4</string>
+    <string name="movie_name8">주키퍼스 와이프</string>
+    <string name="movie_name9">신과 함께</string>
+    <string name="movie_name10">기생충</string>
 </resources>
